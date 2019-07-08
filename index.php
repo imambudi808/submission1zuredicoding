@@ -16,7 +16,7 @@
     $host = "imambudi808.database.windows.net";
     $user = "imambudi808";
     $pass = "NomorSatu123";
-    $db = "db_test";
+    $db = "db_barang";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);

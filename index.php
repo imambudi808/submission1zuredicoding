@@ -13,9 +13,9 @@
        <input type="submit" name="load_data" value="Load Data" >
  </form>
  <?php
-    $host = "imambudi808.database.windows.net";
-    $user = "imambudi808";
-    $pass = "NomorSatu123";
+    $host = "azuredicod.database.windows.net";
+    $user = "imambudi";
+    $pass = "NomorSatu1!";
     $db = "db_barang";
 
     try {
